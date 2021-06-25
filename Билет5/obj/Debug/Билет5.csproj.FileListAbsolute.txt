@@ -1,0 +1,2 @@
+C:\Users\GAMER\Desktop\Билет5\obj\Debug\Билет5.csprojAssemblyReference.cache
+C:\Users\GAMER\Desktop\Билет5\obj\Debug\Билет5.csproj.CoreCompileInputs.cache
